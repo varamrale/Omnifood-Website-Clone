@@ -4,9 +4,9 @@
 - HTML
 - Core CSS 
 
-<!-- ## 💻Demo Link 
+## 💻Demo Link 
 
- you can view this project [Product Home Page](https://harshadbirajdar.github.io/product-landing-page/) -->
+ you can view this project [Omnifood Website Clone](https://varamrale.github.io/Omnifood-Website-Clone/)
 
 ## Features
 - Mobile Resopsive
